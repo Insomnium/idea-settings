@@ -1,0 +1,297 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <resourceExtensions />
+        <wildcardResourcePatterns>
+          <entry name="!?*.java" />
+          <entry name="!?*.form" />
+          <entry name="!?*.class" />
+          <entry name="!?*.groovy" />
+          <entry name="!?*.scala" />
+          <entry name="!?*.flex" />
+          <entry name="!?*.kt" />
+          <entry name="!?*.clj" />
+          <entry name="!?*.aj" />
+        </wildcardResourcePatterns>
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="false">
+            <processorPath useClasspath="true" />
+          </profile>
+        </annotationProcessing>
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="D:/ALFA-JAVA/gradled_corps" value="10134982571000" />
+            <entry key="D:/idea_workspace/ABM/abm-accounts-api" value="7351090363351" />
+            <entry key="D:/idea_workspace/ABM/abm-gateway-api" value="8802617928903" />
+            <entry key="D:/idea_workspace/ABM/abm-payment-info-api" value="8803076095054" />
+            <entry key="D:/idea_workspace/ABM/retail-pfm-expense-api" value="7335567662748" />
+            <entry key="D:/idea_workspace/ACF/ac-front-build" value="436161578360270" />
+            <entry key="D:/idea_workspace/CORP-CORE/mocks/mocks-json" value="4409306110127" />
+            <entry key="D:/idea_workspace/CORP-CORE/mocks/mocks-ws" value="4385001143049" />
+            <entry key="D:/idea_workspace/CORP-DEPO/corp-depo-investments-api" value="8835818046258" />
+            <entry key="D:/idea_workspace/CORP-DEPO/corp-depo-nalog-ru-api" value="7342852319454" />
+            <entry key="D:/idea_workspace/CORP-LIST/corp-list-accounts-api" value="8739939754075" />
+            <entry key="D:/idea_workspace/CORP-LIST/corp-list-print-api" value="13200960896631" />
+            <entry key="D:/idea_workspace/CORP-LIST/corp-list-transactions-api" value="17490131965267" />
+            <entry key="D:/idea_workspace/CORP-LIST/corp-list-trend-api" value="7294440484459" />
+            <entry key="D:/idea_workspace/CORP-RPAY/corp-rpay-accounts-api" value="10198279877077" />
+            <entry key="D:/idea_workspace/CORP-RPAY/corp-rpay-catalogs-api" value="10197759385264" />
+            <entry key="D:/idea_workspace/CORP-RPAY/corp-rpay-profiles-api" value="10202601619764" />
+            <entry key="D:/idea_workspace/CORP-RPAY/corp-rpay-templates-api" value="7287573457949" />
+            <entry key="D:/idea_workspace/CORPS/corp-rpay-accounts-api" value="10194200805000" />
+            <entry key="D:/idea_workspace/CORPS/corp-rpay-catalogs-api" value="10194222894899" />
+            <entry key="D:/idea_workspace/CORPS/corp-rpay-contractors-api" value="10194254695977" />
+            <entry key="D:/idea_workspace/CORPS/corp-rpay-organizations-api" value="10194263524569" />
+            <entry key="D:/idea_workspace/CORPS/corp-rpay-payments-api" value="10194617356703" />
+            <entry key="D:/idea_workspace/CORPS/corp-rpay-profiles-api" value="10194619806200" />
+            <entry key="D:/idea_workspace/CORPS/corps-accounts-api" value="10188697930522" />
+            <entry key="D:/idea_workspace/CORPS/corps-bics-api" value="10188689264606" />
+            <entry key="D:/idea_workspace/CORPS/corps-catalogs-api" value="10186998163427" />
+            <entry key="D:/idea_workspace/CORPS/corps-contractors-api" value="10190444412592" />
+            <entry key="D:/idea_workspace/CORPS/corps-infinispan-sample" value="10182688539054" />
+            <entry key="D:/idea_workspace/CORPS/corps-organizations-api" value="10188713634160" />
+            <entry key="D:/idea_workspace/CORPS/corps-payments-api" value="10194163990804" />
+            <entry key="D:/idea_workspace/CORPS/corps-profiles-api" value="10188717966983" />
+            <entry key="D:/idea_workspace/CORPS/corps-utils" value="2912629111620" />
+            <entry key="D:/idea_workspace/CORPS/org-accounts-api" value="8731105817967" />
+            <entry key="D:/idea_workspace/CORPS/org-payments-api_1" value="8733254430680" />
+            <entry key="D:/idea_workspace/CORPS/org-print-api" value="13099916377671" />
+            <entry key="D:/idea_workspace/CORPS/org-transactions-api" value="17466606925411" />
+            <entry key="D:/idea_workspace/GARBAGE/retail-online-bank-a2a-transactions-api" value="5883647324661" />
+            <entry key="D:/idea_workspace/JWS/ru.alfabank.ws.cs.eq" value="257940290701804" />
+            <entry key="D:/idea_workspace/JWS/ws/ru.alfabank.ws.cs.eq" value="140919815902363" />
+            <entry key="D:/idea_workspace/MENTOS/ip-mentos" value="4372492991461" />
+            <entry key="D:/idea_workspace/MENTOS/ip-mentos_original" value="1457502477480" />
+            <entry key="D:/idea_workspace/MENTOS/mantee-thrift-api-model" value="2917132075198" />
+            <entry key="D:/idea_workspace/OSM/osm-back" value="16167842983679" />
+            <entry key="D:/idea_workspace/OSM/osm20/osm" value="7344183220102" />
+            <entry key="D:/idea_workspace/OSM/osm20/osm-core" value="1468904915339" />
+            <entry key="D:/idea_workspace/REST/customer-api" value="10249847253695" />
+            <entry key="D:/idea_workspace/REST/event-logging-api" value="7286603908450" />
+            <entry key="D:/idea_workspace/REST/organizations-api" value="10156707124273" />
+            <entry key="D:/idea_workspace/REST/research-event-logging-api" value="7287512312692" />
+            <entry key="D:/idea_workspace/REST/research-event-logging-api/research-event-logging-api​" value="7287510671911" />
+            <entry key="D:/idea_workspace/REST/springboot-common" value="5821138893779" />
+            <entry key="D:/idea_workspace/REST/transactions-api" value="11709807029085" />
+            <entry key="D:/idea_workspace/ROB/retail-online-bank-a2a-transactions-api" value="5883579842272" />
+            <entry key="D:/idea_workspace/ROB/retail-online-bank-accounts-groups-api" value="5853569904918" />
+            <entry key="D:/idea_workspace/ROB/retail-online-bank-balances-api" value="5852532274397" />
+            <entry key="D:/idea_workspace/ROB/retail-online-bank-credits-api" value="4438126818236" />
+            <entry key="D:/idea_workspace/ROB/retail-online-bank-deposits-api" value="5854633792838" />
+            <entry key="D:/idea_workspace/ROB/retail-online-bank-limits-api" value="5893248190742" />
+            <entry key="D:/idea_workspace/ROB/retail-online-bank-requisites-api" value="5852532274397" />
+            <entry key="D:/idea_workspace/ROB/retail-online-bank-statements-api" value="5868468625236" />
+            <entry key="D:/idea_workspace/ROB/retail-online-bank-statements-es" value="2951129015096" />
+            <entry key="D:/idea_workspace/ROB/retail-online-bank-statements-model" value="2950986534091" />
+            <entry key="D:/idea_workspace/ROB/retail-online-bank-statements-reader" value="5899505613020" />
+            <entry key="D:/idea_workspace/ROB/retail-online-bank-statements-writer" value="5902021042275" />
+            <entry key="D:/idea_workspace/ROB/retail-online-bank-statements-ws" value="2950984795160" />
+            <entry key="D:/idea_workspace/ROB/retail-online-bank-transactions-api" value="5878158092247" />
+            <entry key="D:/idea_workspace/RTL-AGBT/retail-agbt-catalogs-api" value="7288073600398" />
+            <entry key="D:/idea_workspace/RTL-AGBT/retail-agbt-customer-api" value="7284100717868" />
+            <entry key="D:/idea_workspace/RTL-AGBT/retail-agbt-exchange-api" value="7284573096012" />
+            <entry key="D:/idea_workspace/RTL-AGBT/retail-agbt-expense-api" value="7294024116268" />
+            <entry key="D:/idea_workspace/RTL-AGBT/retail-agbt-operations-api" value="7320343690589" />
+            <entry key="D:/idea_workspace/RTL-AGBT/retail-agbt-recipient-api" value="7285441343166" />
+            <entry key="D:/idea_workspace/RTL-AGBT/retail-agbt-tariff-api" value="7294465088329" />
+            <entry key="D:/idea_workspace/RTL-AGBT/retail-agbt-thrift-model" value="2913478918403" />
+            <entry key="D:/idea_workspace/RTL-CORE/retail-customers-api" value="10359843066778" />
+            <entry key="D:/idea_workspace/RTL-PFM/model" value="2953527265795" />
+            <entry key="D:/idea_workspace/RTL-PFM/retail-pfm-accounts-api" value="7338504346730" />
+            <entry key="D:/idea_workspace/RTL-PFM/retail-pfm-categories-api" value="8834464486211" />
+            <entry key="D:/idea_workspace/RTL-PFM/retail-pfm-categories-api-1" value="8842148845706" />
+            <entry key="D:/idea_workspace/RTL-PFM/retail-pfm-categories-api-2" value="8847652091094" />
+            <entry key="D:/idea_workspace/RTL-PFM/retail-pfm-expense-api" value="7341928101761" />
+            <entry key="D:/idea_workspace/RTL-PFM/retail-pfm-finhealth-api" value="7366556915715" />
+            <entry key="D:/idea_workspace/RTL-PFM/retail-pfm-incomes-api" value="7342793024858" />
+            <entry key="D:/idea_workspace/RTL-PFM/retail-pfm-model" value="2954047687979" />
+            <entry key="D:/idea_workspace/RTL-PFM/retail-pfm-print-api" value="7359903173290" />
+            <entry key="D:/idea_workspace/RTL-PFM/retail-pfm-statements-api" value="5878370042361" />
+            <entry key="D:/idea_workspace/RTL-PROFSET/retail-profile-settings-channels-api" value="4390180154132" />
+            <entry key="D:/idea_workspace/RTL-PROFSET/retail-profile-settings-pipe-api" value="4385761614017" />
+            <entry key="D:/idea_workspace/TAPI/common-utils" value="24708832589439" />
+            <entry key="D:/idea_workspace/TAPI/common-utils_merge" value="24704014264551" />
+            <entry key="D:/idea_workspace/TAPI/org-cards-api" value="7277668719117" />
+            <entry key="D:/idea_workspace/TAPI/org-trend-api" value="7278000105682" />
+            <entry key="D:/idea_workspace/TAPI/org-turnovers-api" value="8733650452229" />
+            <entry key="D:/idea_workspace/TAPI/thrift-api-model" value="2910396241393" />
+            <entry key="D:/idea_workspace/_merge/common-utils" value="26216320693525" />
+            <entry key="D:/idea_workspace/_merge/retail-agbt-exchange-api" value="7284585214612" />
+            <entry key="D:/idea_workspace/_merge/retail-online-bank-a2a-transactions-api" value="5885654735363" />
+            <entry key="D:/idea_workspace/_merge/retail-online-bank-requisites-api" value="5854904135547" />
+            <entry key="D:/idea_workspace/mentoring/jamp/JaMP-General-Integration Patterns/homework/common" value="2907400225927" />
+            <entry key="D:/idea_workspace/mentoring/oauth2-spring" value="20631836091142" />
+            <entry key="D:/idea_workspace/mentoring/spring-integration-samples" value="2908146665529" />
+            <entry key="D:/idea_workspace/merge/click-thrift-api-model" value="2906931412485" />
+            <entry key="D:/idea_workspace/repos/common-utils" value="21747139628478" />
+            <entry key="D:/idea_workspace/repos/org-cards-api" value="7249097297143" />
+            <entry key="D:/idea_workspace/repos/org-turnovers-api" value="8698954119654" />
+            <entry key="D:/idea_workspace/ukd-service-package-api" value="1449494613102" />
+            <entry key="D:/idea_workspace/uniclick/_checking-wsdls" value="7252821397422" />
+            <entry key="D:/idea_workspace/uniclick/click-thrift-api-model" value="2906698186381" />
+            <entry key="D:/idea_workspace/uniclick/customer-account-list-api" value="1450068294442" />
+            <entry key="D:/idea_workspace/uniclick/customer-click-currency-limits" value="1450335825889" />
+            <entry key="D:/idea_workspace/uniclick/customer-navigation-access" value="7265913274086" />
+            <entry key="D:/idea_workspace/uniclick/thrift-api-model" value="2901703924512" />
+            <entry key="D:/idea_workspace/uniclick/transfer-alfa-group-create-service" value="7255081484291" />
+            <entry key="D:/idea_workspace/uniclick/uni-account-list-api" value="7256189330964" />
+            <entry key="D:/idea_workspace/uniclick/uni-currency-exchange-api" value="7251412492672" />
+            <entry key="D:/idea_workspace/uniclick/uni-expense-categories-api" value="7265448211388" />
+            <entry key="D:/idea_workspace/uniclick/uni-payment-authorization-method" value="7253513547069" />
+            <entry key="D:/idea_workspace/uniclick/uni-payment-history-api" value="7265008562457" />
+            <entry key="D:/idea_workspace/uniclick/uni-recipient-api" value="7265008562457" />
+            <entry key="D:/idea_workspace/ws/ru.alfabank.ws.cs.eq" value="123256051809022" />
+            <entry key="D:/idea_workspace/ws_cs_eq" value="123220675104460" />
+            <entry key="D:/ru.alfabank.ws.cs.eq" value="326634969258448" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="D:/Soft/apache-maven-3.3.3" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="importAutomatically" value="true" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="MavenRunner">
+        <option name="jreName" value="#JAVA_HOME" />
+        <option name="skipTests" value="true" />
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <ConfirmationsSetting value="0" id="Add" />
+        <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <method />
+        </configuration>
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+          <method />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+          <method />
+        </configuration>
+      </component>
+      <component name="ThriftCompiler">
+        <compilers />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.6</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
