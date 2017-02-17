@@ -12,6 +12,7 @@
       <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="pmt_status_update_fail" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="wrong_signing_code" type="PLAIN_TEXT" />
       <mapping pattern="adsa" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
