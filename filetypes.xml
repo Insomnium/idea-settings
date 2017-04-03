@@ -11,6 +11,7 @@
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="blocked_signing_code" type="PLAIN_TEXT" />
       <mapping pattern="pmt_adding_failed" type="PLAIN_TEXT" />
+      <mapping pattern="pfm-dev" type="PLAIN_TEXT" />
       <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
       <mapping pattern="pmt_status_update_fail" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
