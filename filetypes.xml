@@ -22,6 +22,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="032" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="corp-dev" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="nib-dev" type="PLAIN_TEXT" />
