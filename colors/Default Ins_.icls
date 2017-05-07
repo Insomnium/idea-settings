@@ -1,5 +1,5 @@
 <scheme name="Default Ins_" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <attributes>
@@ -54,6 +54,42 @@
     <option name="ENUM_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9e9d" />
+      </value>
+    </option>
+    <option name="GO_EXPORTED_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="9e9d" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="GO_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="9e9d" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="9e9d" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_STRUCT">
+      <value>
+        <option name="FOREGROUND" value="9e9d" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_LOCAL_STRUCT">
+      <value>
+        <option name="FOREGROUND" value="9e9d" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
