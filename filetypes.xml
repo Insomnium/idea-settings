@@ -7,17 +7,18 @@
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="inv-integration" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="method_not_found_ecotemplates" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="blocked_signing_code" type="PLAIN_TEXT" />
       <mapping pattern="pmt_adding_failed" type="PLAIN_TEXT" />
       <mapping pattern="pfm-dev" type="PLAIN_TEXT" />
       <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
+      <mapping pattern="AB2" type="PLAIN_TEXT" />
       <mapping pattern="pmt_status_update_fail" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="api-gateway" type="PLAIN_TEXT" />
       <mapping pattern="wrong_signing_code" type="PLAIN_TEXT" />
       <mapping pattern="adsa" type="PLAIN_TEXT" />
+      <mapping pattern="method_not_found_ecotemplates" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="032" type="PLAIN_TEXT" />
