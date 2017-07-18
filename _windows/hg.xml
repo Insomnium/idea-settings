@@ -1,5 +1,10 @@
 <application>
   <component name="HgGlobalSettings">
     <option name="myHgExecutable" value="C:\Program Files\TortoiseHg\hg.exe" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="bitbucket.org/bscideas/alfa-jmba" value="Insomnium" />
+      </map>
+    </option>
   </component>
 </application>
