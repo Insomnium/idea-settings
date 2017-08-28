@@ -114,6 +114,10 @@
           <option name="url" value="http://u_m0q6z@git/scm/rp/retail-pfm-incomes-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.moscow.alfaintra.net" />
+          <option name="userName" value="U_M0Q6Z" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\idea_workspace\repos" />
