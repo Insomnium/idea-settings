@@ -10,6 +10,7 @@
       <mapping pattern="blocked_signing_code" type="PLAIN_TEXT" />
       <mapping pattern="AB2" type="PLAIN_TEXT" />
       <mapping pattern="pfm-dev" type="PLAIN_TEXT" />
+      <mapping pattern="roles/CLIENT" type="PLAIN_TEXT" />
       <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="pmt_status_update_fail" type="PLAIN_TEXT" />
