@@ -17,11 +17,12 @@
       <mask>map.xml</mask>
       <mask>*.js</mask>
       <mask>pom.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*map.xml</mask>
       <mask>*Test.*</mask>
       <mask>*.gradle</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
