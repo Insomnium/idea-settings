@@ -412,6 +412,49 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.6 (venv1) interpreter library">
+      <CLASSES>
+        <root url="file://D:/idea_workspace/dojo/kata/clients/CodeBattlePython/venv1/Lib" />
+        <root url="file://D:/idea_workspace/dojo/kata/clients/CodeBattlePython/venv1/Scripts" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/DLLs" />
+        <root url="file://D:/idea_workspace/dojo/kata/clients/CodeBattlePython/venv1" />
+        <root url="file://D:/idea_workspace/dojo/kata/clients/CodeBattlePython/venv1/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2017.3/system/python_stubs/486034061" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/idea_workspace/dojo/kata/clients/CodeBattlePython/venv1/Lib" />
+        <root url="file://D:/idea_workspace/dojo/kata/clients/CodeBattlePython/venv1/Scripts" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/DLLs" />
+        <root url="file://D:/idea_workspace/dojo/kata/clients/CodeBattlePython/venv1" />
+        <root url="file://D:/idea_workspace/dojo/kata/clients/CodeBattlePython/venv1/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2017.3/system/python_stubs/486034061" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="rack (v1.6.4, ruby-2.2.4-p230) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/rack-1.6.4/bin" />
