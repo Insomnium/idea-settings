@@ -15,19 +15,20 @@
       <mask>*.PFD</mask>
       <mask>map.xml</mask>
       <mask>pom.xml</mask>
-      <mask>*.java</mask>
       <mask>*map.xml</mask>
       <mask>*Test.*</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
       <mask>js</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
